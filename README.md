@@ -1,5 +1,5 @@
 # Timing-study-data-processing
-Extensive data processing, exploration, and visualization work from my 2014 study on rhythmic synchronization timing, in IPython notebooks.
+Extensive data processing, exploration, and visualization work from my 2014 study on rhythmic synchronization timing, in Jupyter notebooks.
 
 On [nbviewer.ipython.org](http://nbviewer.ipython.org/github/coej/Timing-study-data-processing/):
 
