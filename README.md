@@ -1,5 +1,5 @@
 # Timing-study-data-processing
-Extensive Python data processing, exploration, and visualization work from my 2014 study on rhythmic synchronization timing, in Jupyter notebooks.
+Extensive Python data processing, exploration, and visualization work from my 2014 study on rhythmic synchronization timing, in Jupyter notebooks. See also: [dissertation manuscript](http://www.jenkinsc.com/documents/jenkins-dissertation.pdf), [dissertation defense slides](http://www.jenkinsc.com/documents/jenkins-diss-ppt.pdf)
 
 On [nbviewer.jupyter.org](http://nbviewer.jupyter.org/github/coej/Timing-study-data-processing/):
 
